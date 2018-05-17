@@ -50,7 +50,7 @@ background: (whatever color
 	border: 5px #ccc solid;
 	padding: 1px;
 	margin-bottom: 20px;
-	display: inline;
+	display: inline-block;
 }
 
 .clearfix:after {
