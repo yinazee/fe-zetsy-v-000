@@ -50,15 +50,16 @@ background: (whatever color
 	border: 5px #ccc solid;
 	padding: 1px;
 	margin-bottom: 20px;
+	margin-left: 20px;
 }
 
 .clearfix:after {
 	content: “.”;
-display: block;
-clear: both;
-visibility: hidden;
-height: 0;
-line-height: 0;
+	display: block;
+	clear: both;
+	visibility: hidden;
+	height: 0;
+	line-height: 0;
 }
 
 
