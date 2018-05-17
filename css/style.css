@@ -33,6 +33,7 @@ body {
 
 p {
 	width: 96%;
+	background: #ccc;
 }
 
 /* Write all remaining styles here */
