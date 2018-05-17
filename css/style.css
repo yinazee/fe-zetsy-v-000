@@ -31,12 +31,17 @@ body {
 	background: #fff;
 }
 
+p {
+	width: 96%;
+}
+
 /* Write all remaining styles here */
 div {box-sizing: border-box;}
 
 img {
 	border: 5px lightslategray solid;
 }
+
 
 
 #press {
