@@ -36,13 +36,6 @@ div {box-sizing: border-box;}
 
 img {
 	border: 5px lightslategray solid;
-
-}
-
-.wrapper {
-margin: 0, auto;
-width: whatever px
-
 }
 
 
@@ -51,6 +44,7 @@ width: whatever px
 	padding: 1px;
 	/*margin-bottom: 20px;*/
 	display: block;
+	width: 100%;
 }
 
 .clearfix:after {
